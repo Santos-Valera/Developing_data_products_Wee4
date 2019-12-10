@@ -3,18 +3,22 @@ title: "Analysis of the mtcars Dataset"
 author: "Santos Valera Martinez"
 date: "10.12.2019"
 output:
-  slidy_presentation: default
+  ioslides_presentation: default
   html_document:
     number_sections: yes
     toc: yes
-  ioslides_presentation: default
+  slidy_presentation: default
 mode: selfcontained
 job: Reproducible Pitch Presentation
 subtitle: Variables and MPG
 highlighter: highlight.js
 widgets: bootstrap
 ---
+## Reproducible Pitch Presentatio
 
+> You've made your shiny app, now it's time to make your pitch. You get 5 slides (inclusive of the title slide) to pitch a your app. You're going to create a web page using Slidify or Rstudio Presenter with an html5 slide deck.
+
+---
 
 ### Motor Trend Car Road Tests
 
